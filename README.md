@@ -27,17 +27,11 @@ This project is an interactive Sales Performance Analytics Dashboard built using
 3. Built an interactive dashboard in Power BI.
 4. Added slicers and visualizations for dynamic analysis.
 
-## Key Insights
+## Project Analysis
 
 * West region generated the highest sales.
 * Technology category delivered the highest profit.
 * Furniture category showed lower profitability compared to other categories.
 * Sales peaked during the end-of-year period.
 
-## Conclusion
 
-This project demonstrates the use of Python and Power BI to analyze sales data and create an interactive dashboard. It provides valuable insights into sales performance, profitability, regional trends, and product performance through data-driven visualizations.
-
-
-**Mijan Alam**
-Aspiring Data Analyst | Python | SQL | Power BI
